@@ -1,15 +1,13 @@
 
+![Screenshot](portada3.png)
 
-<div>
-<img src="">
+---
 
 <p align="justify">
-<br>
 Soy Front End Developer con una conexión especial al asombroso mundo del diseño UX/UI, con formación profesional en Administración de empresas de la cual obtuve grandes aprendizajes gracias a la implementación de ideas de negocio desde cero.
 </p>  
-</div>
 
-
+---
 <!--
 **Nataliasita/nataliasita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
