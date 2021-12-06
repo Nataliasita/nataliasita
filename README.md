@@ -1,7 +1,7 @@
 
 
 <div>
-<img src="capturafirma.PNG">
+<img src="">
 
 <p align="justify">
 <br>
