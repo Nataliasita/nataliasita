@@ -6,6 +6,8 @@
 <table><tr><td  align="justify" color= "#7FFFD4">
 Soy Front End Developer con una conexión especial al asombroso mundo del diseño UX/UI, con formación profesional en Administración de empresas de la cual obtuve grandes aprendizajes gracias a la implementación de ideas de negocio desde cero.
 </td></tr></table >
+
+---
 <!--
 **Nataliasita/nataliasita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
