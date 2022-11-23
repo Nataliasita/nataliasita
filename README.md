@@ -1,4 +1,4 @@
-<img src="portadaLiked.png" style="widtht:100px;"></img>
+<img src="portadaLiked.png" style="width:100px;">
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -7,6 +7,10 @@ Game and Front End Developer, orientada a la resolución de problemas a través 
 </td></tr></table >
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+<a href="https://sakaine04.itch.io/">
+<img src="icons-git/game-control.png" style="heigth:32px;"> Itch.io
+</a>
+
 <!--
 **Nataliasita/nataliasita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
