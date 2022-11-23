@@ -10,8 +10,9 @@ Game and Front End Developer, orientada a la resolución de problemas a través 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-<table align="center"><tr><td style="color:blue, diplay:flex, aling-items:center" align="justify">
-  <a href="https://sakaine04.itch.io/"><img src="icons-git/game-control.png" style="height:32px;"> Itch.io</a>
+<table align="center"><tr><td style="color:blue" align="justify">
+  <a href="https://sakaine04.itch.io/"><img src="icons-git/game-control.png" style="height:32px;">
+    Itch.io</a>
 </td></tr></table >
 
 <table align="center"><tr><td style="color:blue" align="justify">
