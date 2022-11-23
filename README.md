@@ -10,20 +10,20 @@ Game and Front End Developer, orientada a la resolución de problemas a través 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-<table align="center"><tr><td style="color:blue" align="center">
+<table align="left"><tr><td style="color:blue" align="center">
   <a href="https://sakaine04.itch.io/">
     <img src="icons-git/game-control.png" style="height:32px;">
     <p>Itch.io</p>
   </a>
 </td></tr></table >
 
-<table align="center"><tr><td style="color:blue" align="center">
+<table align="left"><tr><td style="color:blue" align="center">
   <a href="https://www.linkedin.com/in/natalia-gonzalez-lizarazo/"><img src="icons-git/link.png" style="height:32px;">
     <p>LinkedIn</p>
   </a>
 </td></tr></table >
 
-<table align="center"><tr><td style="color:blue" align="center">
+<table align="left"><tr><td style="color:blue" align="center">
   <a href="https://www.instagram.com/sakaine04/"><img src="icons-git/instagram.png" style="height:32px;">  
     <p> Instagram </p>
   </a>
