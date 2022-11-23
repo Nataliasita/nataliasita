@@ -19,7 +19,7 @@ Game and Front End Developer, orientada a la resolución de problemas a través 
 
 <table align="center"><tr><td style="color:blue" align="center">
   <a href="https://www.linkedin.com/in/natalia-gonzalez-lizarazo/"><img src="icons-git/link.png" style="height:32px;">
-    <p>Link</p>
+    <p>LinkedIn</p>
   </a>
 </td></tr></table >
 
