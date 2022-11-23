@@ -13,7 +13,7 @@ Game and Front End Developer, orientada a la resolución de problemas a través 
 <table align="left" style="width:300px"><tr><td style="color:blue" align="center">
   <a href="https://sakaine04.itch.io/">
     <img src="icons-git/game-control.png" style="height:32px;">
-    <p>Itch.io</p>
+    <p> Itch.io </p>
   </a>
 </td></tr></table >
 
@@ -29,7 +29,7 @@ Game and Front End Developer, orientada a la resolución de problemas a través 
   </a>
 </td></tr></table >
 
-<img align="right" src="pikachu.gif" style="height:300px;">
+<img align="right" src="pikachu.gif" style="height:250px;">
 
 
 <!--
