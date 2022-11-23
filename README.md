@@ -3,7 +3,7 @@
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 <table><tr><td style="color:blue" align="justify">
-Soy Front End Developer con una conexión especial al asombroso mundo del diseño UX/UI, con formación profesional en Administración de empresas de la cual obtuve grandes aprendizajes gracias a la implementación de ideas de negocio desde cero.
+Game and Front End Developer, orientada a la resolución de problemas a través del diseño y construcción de productos digitales únicos, con formación profesional en Administración de empresas de la cual obtuve grandes aprendizajes gracias a la implementación de ideas de negocio desde cero. Visualizo cada comienzo como una nueva oportunidad de crecimiento, me apasionan los videojuegos, el aprendizaje constante, los nuevos retos en el área de tecnología, la programación, el modelado 3D y AR.
 </td></tr></table >
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
