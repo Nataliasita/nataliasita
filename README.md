@@ -9,7 +9,7 @@ Game and Front End Developer, orientada a la resolución de problemas a través 
 </td></tr></table >
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-<div>
+<div style="display:flex">
 <table><tr><td style="color:blue" align="justify">
   <a href="https://sakaine04.itch.io/">
   <img src="icons-git/game-control.png" style="height:32px;"> Itch.io
