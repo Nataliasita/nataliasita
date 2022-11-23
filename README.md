@@ -1,4 +1,4 @@
-<img src="portadaLiked.png" style="height:400px;"></img>
+<img src="portadaLiked.png" style="widtht:100px;"></img>
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
