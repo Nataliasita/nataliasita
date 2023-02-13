@@ -29,6 +29,13 @@ Game and Front End Developer, orientada a la resolución de problemas a través 
   </a>
 </td></tr></table >
 
+
+<table align="left" style="width:300px" ><tr><td style="color:blue" align="center">
+  <a href="http://sakainecode-art.com/"><img src="icons-git/sitio.png" style="height:32px;">  
+    <p>Web sitie</p>
+  </a>
+</td></tr></table >
+
 <img align="right" src="pikachu.gif" style="height:230px;">
 
 
